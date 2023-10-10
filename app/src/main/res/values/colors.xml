@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#DD2E2E</color>
+    <color name="skyblue">#7DE1FF</color>
+    <color name="yellow">#E6E29D</color>
+    <color name="pastelBlue">#FFAEDFF7</color>
+    <color name="pastelPink">#FFFFC0CB</color>
+    <color name="pastelGreen">#CAF8B9</color>
+    <color name="pastelPurple">#AF8EF1</color>
+    <color name="pastelYellow">#FFFFE4B5</color>
+    <color name="pastelOrange">#FFFFD700</color>
+    <color name="pastelCyan">#FFB2F0E1</color>
+    <!-- Tambahkan warna pastel lainnya sesuai kebutuhan -->
+</resources>
